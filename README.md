@@ -54,5 +54,3 @@ Luiz Felipe Maia Teodoro
 
 ---
 
-Se quiser, deixo ainda mais curto, mais técnico, mais informal ou mais “acadêmico”. Só pedir.
-
